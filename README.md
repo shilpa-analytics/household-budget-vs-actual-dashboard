@@ -88,9 +88,7 @@ household-budget-vs-actual-dashboard/
 │
 ├── README.md
 ├── Household_Budget_vs_Actual_Dashboard.xlsx
-│
-└── images/
-    └── household-budget-dashboard.png
+└── household-budget-dashboard.png
 ```
 
 ---
