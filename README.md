@@ -134,4 +134,4 @@ It is one of my projects demonstrating my progress in building practical data an
 
 ## 🖼️ Dashboard Preview
 
-![Household Budget vs Actual Dashboard](household-budget-dashboard.png)
+![Household Budget vs Actual Dashboard](household-budget-vs-actual-dashboard.png)
